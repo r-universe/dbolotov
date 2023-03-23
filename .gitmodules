@@ -8,3 +8,8 @@
 	url = https://github.com/dbolotov/amelie
 	shallow = true
 	registered = true
+[submodule "neighbr"]
+	path = neighbr
+	url = https://github.com/cran/neighbr
+	shallow = true
+	registered = true
